@@ -120,6 +120,10 @@ a:active {
 
 @media screen and (max-width: 785px) {
 
+	.article__intro {
+		flex-direction: column;
+	}
+
 	img {
 		max-width: 200px
 	}
